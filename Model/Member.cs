@@ -11,6 +11,7 @@ namespace Model
         public int MemberId { set; get; }
         public string MemberName { set; get; }
         public string MemberPassword { set; get; }
+        public int MemberLevelId { set; get; }
         public DateTime CreateTime { set; get; }
         public int MemberStatus { set; get; }
     }
