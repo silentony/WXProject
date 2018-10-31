@@ -1,0 +1,6 @@
+F:\测试\WXProject\DAL\bin\Debug\DAL.dll
+F:\测试\WXProject\DAL\bin\Debug\DAL.pdb
+F:\测试\WXProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\测试\WXProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\测试\WXProject\DAL\obj\Debug\DAL.dll
+F:\测试\WXProject\DAL\obj\Debug\DAL.pdb
